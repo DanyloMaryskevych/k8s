@@ -1,6 +1,6 @@
-# Custom Kubernetes Setup Script
+# Custom Kubernetes cluster setup script
 
-This script is designed to automate the setup of a Kubernetes cluster with customizable settings for version, CIDR block, and role (worker or master).
+This script automates the setup of a Kubernetes cluster, with customizable settings for version, CIDR block, and role (worker or master).
 It is intended to simplify the deployment and configuration process for Kubernetes clusters.
 To raise a Kubernetes cluster you need at least 2 VMs: master and worker.
 
